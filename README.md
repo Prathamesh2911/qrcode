@@ -64,7 +64,7 @@ Make sure you have Flutter installed on your system. If not, follow the instruct
 1. Clone the repository:
 
     ```bash
-   https://github.com/Prathamesh2911/QRCODE.git
+   https://github.com/Prathamesh2911/qrcode.git
     ```
 
 2. Install dependencies:
