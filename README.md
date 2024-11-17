@@ -53,6 +53,37 @@ The **Home** screen is designed with tab navigation, providing access to two mai
 - **Generate QR Codes**: Users can create QR codes for websites, contact details, or any text-based data.
 - **Scan QR Codes**: Users can quickly scan QR codes to open links, view contact information, or access other encoded data.
 
+## Screenshots & Output
+
+### 1. **Splash Screen**
+The splash screen appears when the app is first opened. It shows the app’s logo and text ("QRCODE") for 3 seconds.
+
+**Example Output:**
+
+<img src="https://github.com/user-attachments/assets/62189383-d675-4d7a-9ae5-faf67dbb5cb1" alt="splash_screen_output" width="250" height="500" />
+
+
+*The splash screen with the app logo and text label.*
+
+### 2. **QR Code Generator Tab**
+In this tab, users can enter text (e.g., a URL) to generate a QR code. Once the user enters the text, the corresponding QR code will be displayed below the input field.
+
+**Example Output:**
+- Entered text: `https://example.com`
+- Generated QR Code:
+
+<img src="https://github.com/user-attachments/assets/964e57c0-4d8e-4ffe-8096-500662314789" alt="first_output" width="250" height="500" />
+
+*The QR code generated for the URL `https://example.com`.*
+
+### 3. **QR Code Scanner Tab**
+In the QR Code Scanner tab, users can scan QR codes using their device's camera. The app decodes the scanned QR code and displays the information.
+
+**Example Output:**
+- Scanned QR Code: `https://example.com`
+- Displayed Output: The app shows the URL or opens it in the browser.
+
+
 ## Getting Started
 
 ### Prerequisites
